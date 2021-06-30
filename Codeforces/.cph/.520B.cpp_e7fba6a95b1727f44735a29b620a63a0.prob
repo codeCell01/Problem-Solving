@@ -1,0 +1,1 @@
+{"name":"Local: 520B","url":"/home/dev/Problem-Solving/Codeforces/520B.cpp","tests":[{"id":1625057007079,"input":"4 6","output":"2"},{"id":1625059589403,"input":"10 1\n","output":"9"},{"id":1625060063983,"input":"99 100","output":"50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dev/Problem-Solving/Codeforces/520B.cpp","group":"local","local":true}
